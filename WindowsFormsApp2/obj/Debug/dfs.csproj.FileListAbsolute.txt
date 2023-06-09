@@ -1,0 +1,33 @@
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\dfs.csproj.AssemblyReference.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\dfs.csproj.SuggestedBindingRedirects.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\dfs.csproj.GenerateResource.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\dfs.csproj.CoreCompileInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\Жданов\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.AssemblyReference.cache
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.SuggestedBindingRedirects.cache
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.GenerateResource.cache
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.CoreCompileInputs.cache
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\God\Desktop\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.AssemblyReference.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.SuggestedBindingRedirects.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.GenerateResource.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\dfs.csproj.CoreCompileInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\hueta-main\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
